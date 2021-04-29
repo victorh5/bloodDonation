@@ -61,6 +61,6 @@ server.post("/", function (req, res) {
 
 
 
-server.listen(4000, function () {
+server.listen(3000, function () {
     console.log("iniciei o server.")
 })

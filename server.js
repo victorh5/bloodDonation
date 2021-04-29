@@ -61,6 +61,6 @@ server.post("/", function (req, res) {
 
 
 
-server.listen(process.env.port || 3000, function () {
+server.listen(process.env.PORT || 3000, function () {
     console.log("iniciei o server.")
 })

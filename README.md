@@ -17,3 +17,22 @@ A aplicação consiste em o usuário cadastrar o seu nome, seu email e o tipo sa
 
 ## Layout
 
+<p align="center">
+<img src="./assets/doacao.PNG" alt="doacao">
+</p>
+
+## Como executar o projeto
+
+```bash
+# clonar repositório
+git clone https://github.com/victorh5/bloodDonation
+
+# instalar dependêmcias
+yarn add
+
+# executar o projeto
+yarn start
+
+# criar um DB no postgresql
+colocar informações de acordo com o banco criado no server.js
+```

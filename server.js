@@ -61,6 +61,6 @@ server.post("/", function (req, res) {
 
 
 
-server.listen(3000, function () {
+server.listen("https://victorh5-blooddonation.netlify.app/", function () {
     console.log("iniciei o server.")
 })

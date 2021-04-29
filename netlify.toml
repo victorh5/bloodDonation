@@ -1,7 +1,0 @@
-[build]
-
-base = "."
-
-command = "yarn add build"
-
-publish = "bloodDonation"

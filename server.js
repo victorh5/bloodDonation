@@ -61,6 +61,6 @@ server.post("/", function (req, res) {
 
 
 
-server.listen("https://victorh5-blooddonation.netlify.app/", function () {
+server.listen(process.env.port || 3000, function () {
     console.log("iniciei o server.")
 })

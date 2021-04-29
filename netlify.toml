@@ -4,4 +4,4 @@ base = "."
 
 command = "yarn add build"
 
-publish = "server.js"
+publish = "bloodDonation"

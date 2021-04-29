@@ -1,6 +1,6 @@
 # Blood Donation
 
-[![NPM](https://img.shields.io/npm/1/react)](https://github.com/victorh5/bloodDonation/blob/master/LICENSE)
+[![NPM](https://img.shields.io/github/license/victorh5/bloodDonation)]
 
 # Sobre o projeto
 

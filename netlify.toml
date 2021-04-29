@@ -2,6 +2,6 @@
 
 base = "."
 
-command = "yarn start"
+command = "server.js"
 
-publish = "server.js"
+publish = "yarn start"

@@ -40,4 +40,4 @@ colocar informações de acordo com o banco criado no server.js
 
 Victor Hugo Maciel de Lima
 
-https://www.linkedin.com/in/victorh5/
+- [LinkedIn](https://www.linkedin.com/in/victorh5/)
